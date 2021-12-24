@@ -1,5 +1,5 @@
 
-- Hey I'm James (@j-c-h-e-n). I'm a HS Senior in the Chesapeake Bay area and I'm currently trying to learn Python.
+- Hey I'm James (@j-c-h-e-n). I'm a HS Senior in the Chesapeake Bay area and I'm self-teaching myself different languages.
 - I'm willing to learn just about anything programming related and I will pursue it if it piques my interest.
 - Currently I'm attempting to code a system-wide application time-tracker.
   - Ex:
