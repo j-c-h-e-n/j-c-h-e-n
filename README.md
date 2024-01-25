@@ -1,5 +1,5 @@
 
-- Hey I'm James (@j-c-h-e-n). I'm a Freshman at UMD.
+- Hey I'm James (@j-c-h-e-n). I'm a sophomore at UMD.
 - I'm willing to learn just about anything programming related and I will pursue it if it piques my interest.
 
 <!---
